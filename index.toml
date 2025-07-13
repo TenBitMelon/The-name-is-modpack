@@ -2,3 +2,8 @@
 file = "modes/entityculling.toml"
 hash = "214,194,181,50,215,12,112,42,30,79,129,29,189,168,209,189,35,253,2,157,228,7,71,200,221,121,54,34,139,130,150,99"
 metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "�3J�\u0012�\u000bR\u001e�8�\u000f�7�I�\u0013�\u0004Y\u0002\u0000����\u001b�a\u0006"
+metafile = true
