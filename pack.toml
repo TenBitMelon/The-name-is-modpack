@@ -1,7 +1,7 @@
 
-name = The name is modpack
-creator = TenBitMelon
+name = "The name is modpack"
+creator = "TenBitMelon"
 
 [versions]
-minecraft = 1.21.7
-fabric = 1.21.7
+minecraft = "1.21.7"
+fabric = "1.21.7"
