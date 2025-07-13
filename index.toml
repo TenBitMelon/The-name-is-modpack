@@ -14,11 +14,6 @@ hash = "�U�\rۑa�25b\bH0$H�+(�\b����E�\\D�E"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.toml"
-hash = "c54162d9aad2bedfb171563960233bf8ad8d83cbce2d19bfc3e218c62a3aa315"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.toml"
 hash = "0e1f03506707048f121bb246821aa1702a6613b62ccd737342e858f3138807a3"
 metafile = true
@@ -26,4 +21,9 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.toml"
 hash = "34098243f3457624a7ff0898556910fcc78ee9676af5d456abb1bf7c30e34694"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "c54162d9aad2bedfb171563960233bf8ad8d83cbce2d19bfc3e218c62a3aa315"
 metafile = true
