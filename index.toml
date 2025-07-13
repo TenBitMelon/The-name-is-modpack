@@ -32,3 +32,13 @@ metafile = true
 file = "mods/diagonal-fences.toml"
 hash = "fe42ac035fb3e17e9efe5eed4acee2fe465d881fa60c3e1284619d93be3876b7"
 metafile = true
+
+[[files]]
+file = "mods/serene-seasons.toml"
+hash = "e64b72b707b361309fe60afaccc7c21a3d6d8d6183b4f9ffc410df8b8aa2c982"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.toml"
+hash = "5666aa9a111d64450fc70fe89fd8162c5b5c03b3dfa02ce06eb97e76669ea909"
+metafile = true
