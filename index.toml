@@ -7,3 +7,8 @@ metafile = true
 file = "mods/cloth-config.toml"
 hash = "�3J�\u0012�\u000bR\u001e�8�\u000f�7�I�\u0013�\u0004Y\u0002\u0000����\u001b�a\u0006"
 metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.toml"
+hash = "�U�\rۑa�25b\bH0$H�+(�\b����E�\\D�E"
+metafile = true
