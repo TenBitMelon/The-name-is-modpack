@@ -22,3 +22,8 @@ metafile = true
 file = "mods/forge-config-api-port.toml"
 hash = "0e1f03506707048f121bb246821aa1702a6613b62ccd737342e858f3138807a3"
 metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.toml"
+hash = "34098243f3457624a7ff0898556910fcc78ee9676af5d456abb1bf7c30e34694"
+metafile = true
