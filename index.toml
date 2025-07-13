@@ -27,3 +27,8 @@ metafile = true
 file = "mods/fabric-api.toml"
 hash = "c54162d9aad2bedfb171563960233bf8ad8d83cbce2d19bfc3e218c62a3aa315"
 metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.toml"
+hash = "fe42ac035fb3e17e9efe5eed4acee2fe465d881fa60c3e1284619d93be3876b7"
+metafile = true
