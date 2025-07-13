@@ -12,3 +12,8 @@ metafile = true
 file = "mods/immediatelyfast.toml"
 hash = "�U�\rۑa�25b\bH0$H�+(�\b����E�\\D�E"
 metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "c54162d9aad2bedfb171563960233bf8ad8d83cbce2d19bfc3e218c62a3aa315"
+metafile = true
